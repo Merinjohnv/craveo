@@ -1,16 +1,150 @@
-# React + Vite
+# Craveo ☕️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Discover. Crave. Order.**
 
-Currently, two official plugins are available:
+Craveo is a premium, modern café brand website built as a frontend-focused React project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project represents a fictional café brand through an immersive digital experience rather than a traditional food-ordering application. It focuses on visual storytelling, typography, responsive layouts, image-driven sections, and subtle interactions.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Premium editorial-style café interface
+- Responsive design for desktop, tablet, and mobile
+- Full-screen hero section
+- Café philosophy section
+- Signature menu showcase
+- Interactive café experience section
+- Brand story section
+- Editorial image gallery
+- Visit/location section
+- Customer feedback CTA
+- Responsive mobile navigation
+- Smooth scrolling navigation
+- Hover effects and subtle transitions
+- Premium typography and warm café-inspired color palette
+- Portfolio-focused frontend implementation
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- Lucide React
+- HTML5
+- CSS3
+
+## 🎨 Design Direction
+
+Craveo uses a warm editorial visual language built around:
+
+- Deep espresso brown
+- Warm cream
+- Large display typography
+- High-quality café imagery
+- Generous but controlled whitespace
+- Minimal borders and UI elements
+- Subtle hover interactions
+- Asymmetric editorial layouts
+
+The goal was to create a website that feels like a real premium café brand rather than a generic food delivery platform.
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Philosophy.jsx
+│   ├── SignatureMenu.jsx
+│   ├── Experience.jsx
+│   ├── Story.jsx
+│   ├── Gallery.jsx
+│   ├── Visit.jsx
+│   ├── Feedback.jsx
+│   └── Footer.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+
+🚀 Getting Started
+
+Clone the repository:
+
+git clone https://github.com/Merinjohnv/craveo.git
+
+Navigate into the project:
+
+cd craveo
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Open the local development URL shown in the terminal.
+
+📦 Available Scripts
+npm run dev
+
+Starts the Vite development server.
+
+npm run build
+
+Creates the production build.
+
+npm run preview
+
+Previews the production build locally.
+
+npm run lint
+
+Runs ESLint to check the project.
+
+📱 Responsive Design
+
+Craveo is designed to provide a consistent experience across:
+
+Desktop
+Laptop
+Tablet
+Mobile devices
+
+The navigation, typography, image layouts, gallery, content sections, and footer adapt to smaller screen sizes.
+
+🎯 Project Focus
+
+This project was created to strengthen frontend development skills through a complete brand-focused website.
+
+The main focus areas were:
+
+React component architecture
+Tailwind CSS
+Responsive UI development
+Modern web layouts
+Visual hierarchy
+Typography
+Image composition
+Interactive states
+Mobile navigation
+Frontend project organization
+🌐 Live Demo
+
+Coming soon.
+
+👩‍💻 Created By
+
+Merin John
+
+Frontend Developer
+
+Portfolio
+
+📄 License
+
+This project was created for portfolio and learning purposes.
