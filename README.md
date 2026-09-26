@@ -69,6 +69,7 @@ src/
 ├── main.jsx
 └── index.css
 
+```
 🚀 Getting Started
 
 Clone the repository:
