@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+/* ================================
+   CRAVEO — GLOBAL STYLES
+================================ */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  overflow-x: hidden;
+  background: #f4f0e8;
+  color: #211c17;
+  font-family: "Inter", sans-serif;
+}
+
+/* Prevent images from creating unwanted gaps */
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* Remove default link styling */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Better text rendering */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+/* Premium text selection */
+::selection {
+  background: #211c17;
+  color: #f4f0e8;
+}
+
+/* Smooth anchor positioning */
+section {
+  scroll-margin-top: 20px;
+}
