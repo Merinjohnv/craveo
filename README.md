@@ -136,7 +136,7 @@ Mobile navigation
 Frontend project organization
 🌐 Live Demo
 
-Coming soon.
+Visit Craveo : https://craveo-olive.vercel.app/
 
 👩‍💻 Created By
 
