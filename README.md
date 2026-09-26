@@ -144,7 +144,7 @@ Merin John
 
 Frontend Developer
 
-Portfolio
+Portfolio: https://merin-john-portfolio.vercel.app/
 
 📄 License
 
